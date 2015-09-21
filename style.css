@@ -1,13 +1,17 @@
-li{
+li.fix{
 	list-style-type: none;
 	display: inline;
 }
 
 body {
 	background: url("images/vintage.jpg");
+	
 }
 
 .button, .columns{
 	text-transform: lowercase;
+	color: black;
 }
-
+footer {
+	margin-top: 3em;
+}
